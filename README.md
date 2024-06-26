@@ -62,8 +62,8 @@ For more information on each function supported by Bruce, [read our wiki here](h
 - [x] Jammer Full (New) - @incursiohack
 - [x] Jammer Intermittent (New) - @incursiohack
 - [x] Spectrum (New) - @incursiohack
-- [ ] Scan/Copy (New)
-- [ ] Replay
+- [x] Scan/Copy (New)
+- [x] Replay
 
 
 ## RFID
